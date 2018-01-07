@@ -11,3 +11,10 @@ VMS
 SRM
 https://www.capterra.com/vendor-management-software/?utf8=%E2%9C%93&review_stars=4&users=64&commit=Filter+Results&sort_options=
 https://www.softwareadvice.com/scm/supplier-relationship-management-software-comparison/?deployment_id=&market_products_sort_order=&market_products_sortby=great_fit&more=true&price_ranges=&stars=&segment_id=358&platforms=&int_site_code=&subsize1_id=#buyers-guide
+https://www.softwareadvice.com/scm/strategic-sourcing-software-comparison/#buyers-guide
+https://www.softwareadvice.com/scm/contract-lifecycle-management-software-comparison/#buyers-guide
+https://www.softwareadvice.com/scm/vendor-management-system-comparison/#buyers-guide
+https://www.softwareadvice.com/scm/supplier-relationship-management-software-comparison/#buyers-guide
+
+https://en.wikipedia.org/wiki/Outsourcing_relationship_management
+https://en.wikipedia.org/wiki/Vendor_relationship_management
