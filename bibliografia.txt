@@ -4,7 +4,8 @@ https://pl.wikipedia.org/wiki/Sie%C4%87_komputerowa
 https://mfiles.pl/pl/index.php/Outsourcing
 https://pl.wikipedia.org/wiki/Outsourcing
 http://ksiegowosc.infor.pl/obrot-gospodar-czy/dzialalnosc-gospodar-cza/695777,Outsourcing-jako-metoda-zarzadzania-przedsiebior-stwem.html
-
+https://aws.amazon.com/
+https://azure.microsoft.com/
 
 
 VMS
