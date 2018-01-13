@@ -6,7 +6,12 @@ https://pl.wikipedia.org/wiki/Outsourcing
 http://ksiegowosc.infor.pl/obrot-gospodar-czy/dzialalnosc-gospodar-cza/695777,Outsourcing-jako-metoda-zarzadzania-przedsiebior-stwem.html
 https://aws.amazon.com/
 https://azure.microsoft.com/
-
+https://cloud.google.com/
+https://www.ibm.com/
+https://cloudplatform.sap.com/
+https://cloud.oracle.com/
+https://www.salesforce.com/
+https://cloud.vmware.com/
 
 VMS
 SRM
