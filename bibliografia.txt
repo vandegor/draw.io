@@ -1,7 +1,7 @@
 bibliografia 
-https://pl.wikipedia.org/wiki/Us%C5%82ugi_informatyczne
+
 https://pl.wikipedia.org/wiki/Sie%C4%87_komputerowa
-https://mfiles.pl/pl/index.php/Outsourcing
+
 https://pl.wikipedia.org/wiki/Outsourcing
 http://ksiegowosc.infor.pl/obrot-gospodar-czy/dzialalnosc-gospodar-cza/695777,Outsourcing-jako-metoda-zarzadzania-przedsiebior-stwem.html
 https://aws.amazon.com/
@@ -36,11 +36,17 @@ outsourcing us³ug informatycznych
 
 
 
- Stopniowe zag³êbianie siê w ocenie efektywnoœci od najprostszych do coraz bardziej zaawansowanych i skomplikowanych metod oceny. 
-•	nieustanne doskonalenie w celu uzyskania wiêkszej dojrza³oœci w realizacji us³ugi.
-•	ca³y proces oceny jest nieustannym cyklem albo inaczej proces realizacji us³ugi jest cyklem, ma swój cykl ¿ycia, a oceny efektywnoœci nale¿y dokonywaæ na ka¿dym z tych etapów.
-•	Ocena incydentalna – w trakcie oceny procesu warto pochyliæ siê nad zdarzeniami w realizacji procesu. Mo¿na to zwizualizowaæ jako oœ czasu a na niej wystêpuj¹ce zdarzenia, lub dziennik zdarzeñ. Ka¿de zd¹¿enie powinno byæ opisane, nastêpnie skategoryzowane i ocenione, czy ma wp³yw na KPI a w konsekwencji na efektywnoœæ us³ugi.
-•	Evaluate direct monitor 
-•	Rozpisa³em sobie co zrobiæ, aby zmierzyæ efektywnoœæ outsourcingu
-•	Nie wyró¿ni³em, jak to zrobiæ – jak wyznaczyæ KPI? – odpowiedzieæ sobie na pytania jak w ITIL. Nieustanne doskonalenie dziêki nieustannemu mierzeniu efektywnoœci. Jak wp³ywa na efektywnoœæ wartoœæ dodana? czy ma jakiœ wp³yw? Jeœli ma to dla kogo? 
-•	PODSTAWOWE PYTANIE – KTO MIERZY? EFEKTYWNOŒÆ BÊDZIE ZALE¯EÆ OD CELU, A KA¯DY MA INNE CELE – INNE DOSTAWCA INNE KLIENT. Czy istnieje mo¿liwoœæ oceny uniwersalnej, czy trzeba podzieliæ to na efektywnoœæ klienta i dostawcy?
+Przyk³adem kategorii metryk stanowi¹cych o wydajnoœci œwiadczonej us³ugi s¹:
+ iloœæ poœwiêconej pracy przez dostawcê na realizacjê;
+ jakoœæ pracy (bardzo sze-roka kategoria z ca³¹ gam¹ produktów pracy i pochodnych wraz z wymaganiami jakie ta praca ma spe³niaæ standardy);
+ stosowane standardy (np. w programowa-niu, dokumentacja);
+ liczba ró¿nego rodzaju nieprawid³owoœci;
+ jakoœæ techniczna (np. statyczna analiza kodu programu);
+ dostêpnoœæ us³ugi (mierzona w procen-tach);
+ zadowolenie klienta (mierzona np. za pomoc¹ ró¿nego rodzaju ankiet);
+ cza-sy reakcji (od zapytania/zg³oszenia do podjêcia zadania);
+ dzienniki zdarzeñ mo-g¹ce wp³ywaæ np. na czas reakcji;
+ efektywnoœæ (jest to g³ównie istotna miara dla dostawcy poniewa¿ mówi ona wprost o zysku przez obni¿enie kosztu obs³ugi, klient zap³aci tyle samo natomiast dostawca zu¿yje mniej œrodków do realizacji);
+ stosunek ceny do poœwiêconej pracy; 
+ ob³o¿enie prac¹ zespo³u œwiadcz¹cego us³u-gê;
+ procent pracy odrzuconej przez klienta do „poprawki”. 
